@@ -1,0 +1,9 @@
+C:\Users\kusna\OneDrive\Projects\Pictures\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\CleanAbstractFactory.csprojResolveAssemblyReference.cache
+C:\Users\kusna\OneDrive\Projects\Pictures\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\CleanAbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\kusna\OneDrive\Projects\Pictures\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\CleanAbstractFactory.exe.config
+C:\Users\kusna\OneDrive\Projects\Pictures\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\CleanAbstractFactory.exe
+C:\Users\kusna\OneDrive\Projects\Pictures\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\CleanAbstractFactory.pdb
+C:\Users\kusna\OneDrive\Projects\Pictures\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\SimpleInjector.dll
+C:\Users\kusna\OneDrive\Projects\Pictures\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\SimpleInjector.xml
+C:\Users\kusna\OneDrive\Projects\Pictures\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\CleanAbstractFactory.exe
+C:\Users\kusna\OneDrive\Projects\Pictures\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\CleanAbstractFactory.pdb
